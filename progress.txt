@@ -1,0 +1,10 @@
+Progress file belonging to DevSecOps Crash Course - Techworld with Nana
+
+Youtube link:	https://www.youtube.com/watch?v=gLJdrXPn0ns
+	Watched:	0:00:00
+
+GitHub CI/CD crash course: https://www.youtube.com/watch?v=R8_veQiYBjI
+	Watched:	0:00:00
+
+GitLab Ci/CD Tutorial:	https://www.youtube.com/watch?v=qP8kir2GUgo
+	Watched:	0:00:00
